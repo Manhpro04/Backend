@@ -1,0 +1,27 @@
+{
+  "name": "backend-zero",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manhpro04/Backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Manh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manhpro04/Backend/issues"
+  },
+  "homepage": "https://github.com/Manhpro04/Backend#readme",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
